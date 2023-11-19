@@ -15,4 +15,8 @@ bun dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-Either Sharp or Canvas will error. I'm not sure if this is an issue with either one of the packages, NextJS or Webpack.
+
+Either Sharp or Canvas will error. 
+I'm not sure if this is an issue with either one of the packages, NextJS or Webpack.
+
+This has been tested on Windows and Ubuntu with Node 20.9.0 LTS.
